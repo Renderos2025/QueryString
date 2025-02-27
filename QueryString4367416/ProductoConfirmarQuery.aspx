@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Ingresar Producto<asp:Table ID="Table1" runat="server" Height="312px" Width="326px">
+            Enter Product<asp:Table ID="Table1" runat="server" Height="312px" Width="326px">
 	<asp:TableRow runat="server">
 		<asp:TableCell runat="server">
 			<asp:Label ID="Label2" runat="server" Text="Category"></asp:Label>
